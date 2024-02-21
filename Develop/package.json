@@ -20,6 +20,9 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "css-loader": "^6.10.0",
+    "nodemon": "^2.0.4",
+    "style-loader": "^3.3.4",
+    "workbox-webpack-plugin": "^7.0.0"
   }
 }
